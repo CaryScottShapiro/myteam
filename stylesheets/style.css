@@ -1,0 +1,17 @@
+.body {
+  margin-top: 30px;
+}
+.h1.title {
+  padding: 0 30px 30px 0; align-content: center;
+}
+.h2 {
+  font-size: 50px;
+  color: orange;
+}
+.h3 {
+  font-size: 50px;
+  color: blue;
+}
+.logo {
+  width: 250px;
+}
